@@ -121,7 +121,7 @@ Management can identify top-performing products, states, and retailers to focus 
 
 6. Screenshots / Demo
 
-Dashboard Preview-
+Dashboard Preview-https://github.com/AkashBirge/Adidas-Dashboard/blob/main/Snapshot%20of%20Adidas%20Analytics.png
 
 The Adidas Sales Analytics Dashboard provides a centralized and interactive view of:
 - Sales Performance
